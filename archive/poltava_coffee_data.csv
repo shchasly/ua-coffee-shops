@@ -1,0 +1,21 @@
+Place name,Place type,Rating,Reviews,Price,Delivery option,Dine in option,Takeout option
+G COFFEE,Coffee shop,4.5,1596,$$,True,True,
+Kavun,Coffee shop,4.7,1785,$$,True,True,
+Buns Brew Bar,Coffee shop,4.7,459,$$,False,,True
+Coffee House,Cafe,4.7,329,$$,False,,True
+"""Точка кофе""",Espresso bar,4.9,14,,False,,True
+Your Coffee,Cafe,4.7,569,$$,False,True,
+KOFEiN,Cafe,4.4,860,$$$,,True,True
+"Perfect Coffee, КАВ'ЯРНЯ",Espresso bar,4.8,124,$$,False,True,True
+Misceva kavyarnya,Coffee shop,4.5,898,$$,False,True,True
+Dzhi,Cafe,4.5,1195,$$,True,True,True
+Gangster coffee shop,Coffee store,4.7,347,$$,True,,
+Crema Caffe Poltava,Coffee shop,4.3,12,,False,,True
+COFFBOY,Coffee shop,4.7,112,,False,True,True
+Wake Up Coffee,Coffee shop,4.9,17,,False,,True
+Lviv Handmade Chocolate,Chocolate shop,4.6,1376,$$,False,True,True
+"ПЕРША ДЕГУСТАЦІЙНА ЗАЛА КАВИ ""GANGSTER_COFFEE SHOP 3""",Coffee store,5,37,,,,
+Aroma kava,Cafe,4.4,226,$$,False,True,True
+Koffishka,Coffee shop,4.1,716,$$,False,True,True
+ЗАКУТОК - coffee hookah point,Coffee shop,5,15,,,,
+CoffeePot,Coffee shop,5,18,,False,True,

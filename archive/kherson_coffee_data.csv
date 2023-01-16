@@ -1,0 +1,21 @@
+Place name,Place type,Rating,Reviews,Price,Delivery option,Dine in option,Takeout option
+Coffee 66,Cafe,5,15,,,,True
+Godshot Coffee,Cafe,4.7,726,$$,,True,True
+Verona,European restaurant,4.5,1345,$$,True,True,
+Prostir.coffee Таврик,Coffee shop,5,26,,,True,
+I love coffee,Coffee shop,4.7,485,$$,False,True,True
+coffee House,Coffee shop,4.7,279,$$,False,True,True
+Дом Кофе,Coffee shop,4.6,241,$$,False,True,True
+CoffeeOk,Coffee shop,4.9,18,,False,,True
+Кофе с Совой,Espresso bar,4.9,46,,False,,True
+Кофе В Херсоне,Cafe,,,,False,,
+Prostir.coffee,Coffee shop,4.7,587,$$,True,True,True
+Don Marco coffee shop,Coffee shop,4.4,593,$$,False,True,True
+HOTCUP,Cafe,4.6,103,,False,,True
+Koko,Coffee shop,4.4,1201,$$,False,True,True
+Coffee house,Coffee shop,4.4,67,$$,False,,True
+Coffeehouse Na Poshtovomu Provulku,Coffee shop,4.6,275,$$,False,True,True
+Just Coffee Kherson,Espresso bar,4.5,27,,False,,True
+Don Marco,Coffee shop,4.4,304,$$,False,True,True
+Green house,Cafe,4.5,598,$$,True,True,True
+Kofemolka,Coffee shop,4.7,97,,False,,True

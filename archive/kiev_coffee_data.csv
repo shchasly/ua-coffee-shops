@@ -1,0 +1,21 @@
+Place name,Place type,Rating,Reviews,Price,Delivery option,Dine in option,Takeout option
+coffeeok,Coffee store,4.9,1820,,True,,
+"""®КАВА БАЗА®""",E-commerce service,5,21,,,,
+Coffee in Action,Coffee shop,4.9,304,$$,,,
+Горький Espresso Bar,Coffee shop,5,22,,,,
+Кафе Бутик,Coffee store,4.7,373,,True,,
+Cuba Coffee Brew - Bar,Espresso bar,4.6,693,$$,False,True,True
+Progress Cafe,Coffee shop,4.9,26,,,,
+Буду Кофе,Coffee shop,4.9,282,,False,True,True
+ONE LOVE espresso bar,Coffee shop,4.6,2319,$$,False,True,True
+Matílda cafe,Cafe,4.9,26,,,True,True
+TAKAVA Coffee-Buffet,Cafe,4.6,1737,$$,,True,True
+Kaffa,Cafe,4.7,1281,$$,False,True,True
+The Blue Cup Coffee Shop,Espresso bar,4.6,1908,$$,True,True,True
+LION coffee,Coffee shop,4.9,64,,,,
+Kaffa,Espresso bar,4.8,824,$$,False,True,True
+London,Cafe,4.7,1633,$$,,True,
+PRO Coffee,Espresso bar,4.8,35,,,True,True
+RIGHT coffee bar,Coffee shop,4.7,514,$$,False,True,True
+Espressoholic,Espresso bar,4.6,1300,$,False,True,True
+Matin Desserts & Coffee,Coffee shop,4.9,110,,,,

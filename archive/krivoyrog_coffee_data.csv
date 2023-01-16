@@ -1,0 +1,21 @@
+Place name,Place type,Rating,Reviews,Price,Delivery option,Dine in option,Takeout option
+SV Кафе,Cafe,4.5,998,$$,True,True,True
+I Feel Espresso Bar,Cafe,4.5,1509,$$,False,True,True
+I want coffee,Coffee shop,4.4,699,$$,False,True,True
+Кофейня My Coffee,Cafe,4.5,124,$$,False,,True
+Hunter's yard,Cafe,4.4,479,$$,,True,True
+Crema Caffe Кривий Ріг,Coffee shop,4.7,455,$$,False,True,True
+"Tea, Coffee Shop",Coffee store,4.6,401,,False,True,True
+Антикафе 7/9 | Кривой Рог,Cafe,4.7,190,,False,True,
+Чай Кофе,Cafe,4.4,40,,,,
+Coffee Craft,Cafe,4.7,342,$$,False,True,True
+ЕТУАЛЬ КАФЕ,Cafe,4.6,327,$$$,True,True,True
+Coffee Break,Espresso bar,4.8,49,,False,,True
+SV Кафе,Cafe,4.6,740,$$,False,True,True
+Dva Gusya Pizza,Cafe,4,1439,$$,True,True,True
+Offshore cafe,Cafe,4.4,947,$$,,True,True
+Франс.уа на Пушкина,Cafe,4.9,156,$$,,True,True
+Дикий Койот кафе,Cafe,4.9,116,,True,True,True
+BON BON,Coffee shop,4.8,156,,False,True,True
+The Spiceroom,Cafe,4.6,38,,True,,True
+Магазин AROMA coffee&tea shop,Cafe,5,33,$$,,True,
